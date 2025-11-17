@@ -1,5 +1,2 @@
-   node_modules/
-    .angular/cache/
-    .vscode/
-    dist/
-    tmp/
+node_modules/
+   
